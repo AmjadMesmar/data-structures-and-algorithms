@@ -5,7 +5,6 @@ CHALLENGE 1 - Review
 Write a function named replaceZeros that, given a string, uses Regex to replace all '0' with the word 'zero'.
 ------------------------------------------------------------------------------------------------ */
 const replaceZeros = (string) => {
-  // Solution code here...
   let myString = string.replace(/0/g, 'zero');
   return myString;
 };
@@ -14,7 +13,6 @@ CHALLENGE 2
 Write a function named addOne that, given an array of numbers, uses map to return a new array with each value simply incremented by 1.
 ------------------------------------------------------------------------------------------------ */
 const addOne = (arr) => {
-  // Solution code here...
   let newArr = arr.map( x => x+1);
   return newArr;
 };
@@ -34,7 +32,6 @@ You may choose to complete this challenge using a for loop, for...in syntax, or 
 For example, twoToThe([1,2,3]) returns [2,4,8] because 2 ^ 1 = 2, 2 ^ 2 = 4, and 2 ^ 3 = 8.
 ------------------------------------------------------------------------------------------------ */
 const forLoopTwoToThe = (arr) => {
-  // Solution code here...
   let newArr = [];
   for(let i in arr){
     newArr.push(Math.pow( 2 , arr[i]));
@@ -46,7 +43,6 @@ CHALLENGE 5
 Write a function named forEachTwoToThe that produces the same output as your forLoopTwoToThe function from challenge 1, but uses forEach instead of a for loop.
 ------------------------------------------------------------------------------------------------ */
 const forEachTwoToThe = (arr) => {
-  // Solution code here...
   let newArr = [];
   arr.forEach(x=>{
     newArr.push(Math.pow( 2 , x));
@@ -58,7 +54,6 @@ CHALLENGE 6
 Write a function named mapTwoToThe that produces the same output as your forLoopTwoToThe function from challenge 1 and your forEachTwoToThe function from challenge 2, but uses map instead of a for loop or forEach.
 ------------------------------------------------------------------------------------------------ */
 const mapTwoToThe = (arr) => {
-  // Solution code here...
   let newArr = arr.map( x => Math.pow( 2 , x));
   return newArr;
 };
