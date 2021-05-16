@@ -18,7 +18,7 @@ Each day, you'll add one new file to this folder to do your work for the day's a
 
 | Topic | Link |
 |-------|------|
-|Day 01   | [Class 01](https://amjadmesmar.github.io/data-structures-and-algorithms/401-code-challenges/code-challenge-class-01/readme)|
+|Day 01   | [Class 01](https://amjadmesmar.github.io/data-structures-and-algorithms/401-code-challenges/code-challenge-class-01/readme.md)|
 |Day 02   | [Class 02](https://amjadmesmar.github.io/data-structures-and-algorithms/401-code-challenges/code-challenge-class-01/readme)|
 |Day 03   | [Class 03](https://amjadmesmar.github.io/data-structures-and-algorithms/401-code-challenges/code-challenge-class-01/readme)|
 |Day 04   | [Class 04](https://amjadmesmar.github.io/data-structures-and-algorithms/401-code-challenges/code-challenge-class-01/readme)|
