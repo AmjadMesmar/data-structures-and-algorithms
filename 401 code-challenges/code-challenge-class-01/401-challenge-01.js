@@ -25,4 +25,5 @@ function reverseArray2 (arr){
 reverseArray(array);
 reverseArray2(array2);
 
+// Export functions as an object:
 module.exports = {reverseArray2,reverseArray};
