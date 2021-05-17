@@ -7,6 +7,7 @@ let array2 = [10,9,8,7,6,5,4,3,2,1];
 function reverseArray (arr){
   let newArr = arr.reverse();
   console.log('Reverse array with reverse(): ',newArr);
+  return newArr;
 }
 
 
@@ -21,5 +22,7 @@ function reverseArray2 (arr){
 }
 
 // reverseArray(array);
-reverseArray2(array);
-reverseArray(array2);
+reverseArray(array);
+reverseArray2(array2);
+
+module.exports = {reverseArray2,reverseArray};
