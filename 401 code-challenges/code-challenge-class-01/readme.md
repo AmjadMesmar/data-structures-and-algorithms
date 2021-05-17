@@ -10,4 +10,4 @@ Write a function that takes an array and reverse it.
 ## Approach & Efficiency
 
 - Time complexity: O(n).
-- Space complexity: O(n).
+- Space complexity: O(1).
