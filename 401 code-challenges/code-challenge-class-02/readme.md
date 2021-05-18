@@ -1,4 +1,4 @@
-# Binary Search of Sorted Array
+# Array Shift
 
 Write a function that takes an array and a number and push the number to the middle of the array.
 
