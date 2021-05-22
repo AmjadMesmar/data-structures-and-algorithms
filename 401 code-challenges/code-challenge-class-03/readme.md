@@ -4,7 +4,7 @@ Write a function that takes an array and a number and push the number to the mid
 
 ## Whiteboard Process
 
-![array binary search](./array-binary-search.jpeg)
+![array binary search](./array-binary-search-whiteboard.jpeg)
 
 ## Approach & Efficiency
 
