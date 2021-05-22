@@ -1,9 +1,8 @@
-'use strict';
-
 /* eslint-disable no-unused-vars */
-const Node = require('../linked-list.js');
-const LinkedList = require('../index.js');
+const Node = require('../code-challenge-class-05/node.js');
+const LinkedList = require('../code-challenge-class-05/LL.js');
 const { expect } = require('@jest/globals');
+
 
 describe('node class Test', () => {
   it('should create new object', () => {
