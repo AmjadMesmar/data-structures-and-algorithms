@@ -5,13 +5,14 @@
 // length --
 
 'use strict';
-const Node = require('./linked-list.js');
+const Node = require('./node.js');
 
 class LinkedList {
   constructor() {
     this.head = null;
   }
 
+  
   add(value) {
     let node = new Node(value);
     try {
