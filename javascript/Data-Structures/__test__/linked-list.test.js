@@ -1,8 +1,8 @@
 'use strict';
 
 /* eslint-disable no-unused-vars */
-const Node = require('../linked-list.js');
-const LinkedList = require('../index.js');
+const Node = require('../linked-list/node.js');
+const LinkedList = require('../linked-list/linked-list.js');
 const { expect } = require('@jest/globals');
 
 describe('node class Test', () => {

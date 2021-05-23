@@ -1,18 +1,15 @@
 /* eslint-disable no-unused-vars */
 /* eslint-disable no-empty */
-// head
-// tail --
-// length --
-
 'use strict';
-const Node = require('./linked-list.js');
+
+const Node = require('../linked-list/node.js');
 
 class LinkedList {
   constructor() {
     this.head = null;
   }
 
-  add(value) {
+  append(value) {
     let node = new Node(value);
     try {
       if (!this.head) {// empty linked list
@@ -31,27 +28,38 @@ class LinkedList {
 
   }
 
-  addNewHead(value) {
-    let newNode = new Node(value);
-    try {
-      if (!this.head) {
+  insertBefore(value, newVal) {
+    let currentNode = this.head;
+    let previousNode;
+    while ((currentNode) && (currentNode.value !== value)) {
+      previousNode = currentNode;
+      currentNode = currentNode.next;
+    }
+    if (!currentNode) {
+      throw `Value ${value} not found in linked list.`;
+    } else {
+      const newNode = new Node(newVal);
+      newNode.next = currentNode;
+      if (currentNode === this.head) {
         this.head = newNode;
       } else {
-        newNode.next = this.head;
-        this.head = newNode;
+        previousNode.next = newNode;
       }
-    }
-    catch (error){
-      console.error('Ann error occured: ', error);
     }
   }
 
-  insert (value){
-    try {
-      this.head.value = new Node(value);
+  insertAfter(value, newVal) {
+
+    let currentNode = this.head;
+    while ((currentNode) && (currentNode.value !== value)) {
+      currentNode = currentNode.next;
     }
-    catch (error){
-      console.error('Ann error occured: ', error);
+    if (!currentNode) {
+      throw `Value ${value} not found in linked list.`;
+    } else {
+      const newNode = new Node(newVal);
+      newNode.next = currentNode.next;
+      currentNode.next = newNode;
     }
   }
 
@@ -76,25 +84,6 @@ class LinkedList {
     }
   }
 
-  toString() {
-    let head = this.head;
-    let result = [];
-    try {
-      while(head) {
-        result.push(' { ');
-        result.push(head.value);
-        result.push(' } ');
-        result.push(' -> ');
-        head = head.next;
-      }
-
-      result.push('NULL');
-      return result.join('');
-    }
-    catch (error){
-      console.error('Ann error occured: ', error);
-    }
-  }
 }
 
 module.exports = LinkedList;
