@@ -27,7 +27,7 @@ describe('Linked list class test', () => {
     test.append(1);
     test.append(2);
     //assert
-    expect(test).toEqual({"head": {"next": {"next": null, "value": 2}, "value": 1}});
+    expect(test).toEqual({'head': {'next': {'next': null, 'value': 2}, 'value': 1}});
   });
 
   it('Can successfully add multiple nodes to the end of a linked list', () => {
@@ -40,7 +40,7 @@ describe('Linked list class test', () => {
     test.append(4);
     test.append(5);
     //assert
-    expect(test).toEqual({"head": {"next": {"next": {"next": {"next": {"next": null, "value": 5}, "value": 4}, "value": 3}, "value": 2}, "value": 1}});
+    expect(test).toEqual({'head': {'next': {'next': {'next': {'next': {'next': null, 'value': 5}, 'value': 4}, 'value': 3}, 'value': 2}, 'value': 1}});
   });
 
   it('Can successfully insert a node before a node located i the middle of a linked list', () => {
@@ -53,7 +53,7 @@ describe('Linked list class test', () => {
     //act
     test.insertBefore(3,5);
     //assert
-    expect(test).toEqual({"head": {"next": {"next": {"next": {"next": {"next": null, "value": 4}, "value": 3}, "value": 5}, "value": 2}, "value": 1}});
+    expect(test).toEqual({'head': {'next': {'next': {'next': {'next': {'next': null, 'value': 4}, 'value': 3}, 'value': 5}, 'value': 2}, 'value': 1}});
 
   });
 
@@ -68,7 +68,7 @@ describe('Linked list class test', () => {
     //act
     test.insertBefore(1,5);
     //assert
-    expect(test).toEqual({"head": {"next": {"next": {"next": {"next": {"next": null, "value": 4}, "value": 3}, "value": 2}, "value": 1}, "value": 5}});
+    expect(test).toEqual({'head': {'next': {'next': {'next': {'next': {'next': null, 'value': 4}, 'value': 3}, 'value': 2}, 'value': 1}, 'value': 5}});
   });
 
   it('Can successfully insert after a node in the middle of the linked list', () => {
@@ -81,7 +81,7 @@ describe('Linked list class test', () => {
     //act
     test.insertAfter(3,5);
     //assert
-    expect(test).toEqual({"head": {"next": {"next": {"next": {"next": {"next": null, "value": 4}, "value": 5}, "value": 3}, "value": 2}, "value": 1}}
+    expect(test).toEqual({'head': {'next': {'next': {'next': {'next': {'next': null, 'value': 4}, 'value': 5}, 'value': 3}, 'value': 2}, 'value': 1}}
     );
   });
 
@@ -95,7 +95,7 @@ describe('Linked list class test', () => {
     //act
     test.insertAfter(4,5);
     //assert
-    expect(test).toEqual({"head": {"next": {"next": {"next": {"next": {"next": null, "value": 5}, "value": 4}, "value": 3}, "value": 2}, "value": 1}}
+    expect(test).toEqual({'head': {'next': {'next': {'next': {'next': {'next': null, 'value': 5}, 'value': 4}, 'value': 3}, 'value': 2}, 'value': 1}}
     );
   });
 
