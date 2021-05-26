@@ -1,7 +1,8 @@
+/* eslint-disable no-unused-vars */
 'use strict';
 
 // Require the linked list implementation
-const LinkedList = require('../../linked-list');
+const LinkedList = require('../../../javascript/Data-Structures/linked-list/linked-list.js');
 
 
 /*
@@ -13,4 +14,4 @@ module.exports = function reverse(list) {
 
   return true;
 
-}
+};
