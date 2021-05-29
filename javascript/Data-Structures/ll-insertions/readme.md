@@ -4,7 +4,7 @@ Inserting a new element into a singly linked list at beginning is quite simple. 
 
 ## Whiteboard Process
 
-![Whiteboard](./linked-list-insertions-whiteboard.jpeg)
+![Whiteboard](./linked-list-insertions-whiteboard2.jpeg)
 
 ## Approach & Efficiency
 
