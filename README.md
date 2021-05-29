@@ -26,7 +26,7 @@ Each day, you'll add one new file to this folder to do your work for the day's a
 |Day 06   | [Class 06](https://github.com/AmjadMesmar/data-structures-and-algorithms/blob/main/javascript/Data-Structures/ll-insertions/readme.md)|
 |Day 07   | [Class 07](https://github.com/AmjadMesmar/data-structures-and-algorithms/blob/main/javascript/Data-Structures/ll-kth-from-end/readme.md)|
 |Day 08   | [Class 08](https://github.com/AmjadMesmar/data-structures-and-algorithms/blob/main/javascript/Data-Structures/ll-zip/readme.md)|
-|Day 09   | [Class 09](https://github.com/AmjadMesmar/data-structures-and-algorithms/blob/main/401%20code-challenges/code-challenge-class-09/readme.md)|
+|Day 09   | [Class 09](https://github.com/AmjadMesmar/data-structures-and-algorithms/blob/main/javascript/Data-Structures/stacksAndQueues/readme.md)|
 |Day 10   | [Class 10](https://github.com/AmjadMesmar/data-structures-and-algorithms/blob/main/401%20code-challenges/code-challenge-class-10/readme.md)|
 |Day 11   | [Class 11](https://github.com/AmjadMesmar/data-structures-and-algorithms/blob/main/401%20code-challenges/code-challenge-class-11/readme.md)|
 |Day 12   | [Class 12](https://github.com/AmjadMesmar/data-structures-and-algorithms/blob/main/401%20code-challenges/code-challenge-class-12/readme.md)|
