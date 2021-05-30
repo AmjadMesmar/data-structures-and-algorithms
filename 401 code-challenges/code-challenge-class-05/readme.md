@@ -37,5 +37,4 @@ BigO:
 
 ## Whiteboard
 
-![Whiteboard](./linked-list-whiteboard.jpg)
-
+![Whiteboard](./linked-list-whiteboard-updated.jpg)
