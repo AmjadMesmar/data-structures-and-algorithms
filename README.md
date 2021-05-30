@@ -22,7 +22,7 @@ Each day, you'll add one new file to this folder to do your work for the day's a
 |Day 02   | [Class 02](https://github.com/AmjadMesmar/data-structures-and-algorithms/blob/main/401%20code-challenges/code-challenge-class-02/readme.md)|
 |Day 03   | [Class 03](https://github.com/AmjadMesmar/data-structures-and-algorithms/blob/main/401%20code-challenges/code-challenge-class-03/readme.md)|
 |Day 04   | [Class 04](https://github.com/AmjadMesmar/data-structures-and-algorithms/blob/main/401%20code-challenges/code-challenge-class-04/readme.md)|
-|Day 05   | [Class 05](https://github.com/AmjadMesmar/data-structures-and-algorithms/blob/main/javascript/Data-Structures/linked-list/readme.md)|
+|Day 05   | [Linked-list](https://github.com/AmjadMesmar/data-structures-and-algorithms/blob/main/javascript/Data-Structures/linked-list/README.md)|
 |Day 06   | [ll-insertions](https://github.com/AmjadMesmar/data-structures-and-algorithms/blob/main/javascript/Data-Structures/ll-insertions/readme.md)|
 |Day 07   | [ll-kth-from-end](https://github.com/AmjadMesmar/data-structures-and-algorithms/blob/main/javascript/Data-Structures/ll-kth-from-end/readme.md)|
 |Day 08   | [ll-zip](https://github.com/AmjadMesmar/data-structures-and-algorithms/blob/main/javascript/Data-Structures/ll-zip/readme.md)|
