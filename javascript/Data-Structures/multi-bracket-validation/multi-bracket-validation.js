@@ -4,7 +4,7 @@
 function isValid (str) {
 
   if(typeof str !== 'string' || str.length === 0){
-    throw 'Input is not a string!';
+    throw 'Input is not a string! or string is empty!';
   }
 
   let array = [];
