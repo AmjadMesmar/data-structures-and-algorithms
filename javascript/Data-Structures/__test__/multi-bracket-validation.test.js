@@ -25,13 +25,13 @@ describe('Checks if string is valid', () => {
   it('If input is not a string, throw an exception', () => {
 
 
-    expect(() => isValid(1)).toThrow('Input is not a string!');
+    expect(() => isValid(1)).toThrow('Input is not a string! or string is empty!');
 
   });
 
   it('If input is an empty string, throw an exception', () => {
 
-    expect(() => isValid('')).toThrow('Input is not a string!');
+    expect(() => isValid('')).toThrow('Input is not a string! or string is empty!');
 
   });
 });
