@@ -1,4 +1,3 @@
-
 class Animal {
   constructor(name,type){
     this.name = name;
@@ -11,6 +10,8 @@ class AnimalShelter {//FIFO
   }
 
   enqueue(value) {
+    if(value.type !== 'cat' && value.type !== 'dog')
+      throw 'Can only enqueue a cat or a dog!';
     this.values.push(value);//
   }
 
@@ -18,6 +19,12 @@ class AnimalShelter {//FIFO
     if(typeof pref !== 'string'){
       throw `Input shall be a string!`;
     }
+
+    if(pref !== 'cat' && pref !== 'dog'){
+      let choosen = this.values[0];
+      this.values.splice(0,1);
+      return choosen; }
+
     let arr = this.values;
 
     if((pref === 'cat')|| (pref === 'dog')) {
@@ -37,5 +44,6 @@ class AnimalShelter {//FIFO
     return choosen;
   }
 }
+
 
 module.exports = {Animal,AnimalShelter};
