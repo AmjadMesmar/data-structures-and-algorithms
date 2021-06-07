@@ -32,7 +32,7 @@ Each day, you'll add one new file to this folder to do your work for the day's a
 |Day 12   | [multi-bracket-validation](https://github.com/AmjadMesmar/data-structures-and-algorithms/blob/main/javascript/Data-Structures/multi-bracket-validation/readme.md)|
 |Day 13   | [Binary Search Tree](https://github.com/AmjadMesmar/data-structures-and-algorithms/blob/main/javascript/Data-Structures/tree/readme.md)|
 |Day 14   | [Find Maximum Value](https://github.com/AmjadMesmar/data-structures-and-algorithms/blob/main/challenges/BinaryTree/readme.md)|
-|Day 15   | [Class 15](https://github.com/AmjadMesmar/data-structures-and-algorithms/blob/main/401%20code-challenges/code-challenge-class-15/readme.md)|
+|Day 15   | [Breadth First](https://github.com/AmjadMesmar/data-structures-and-algorithms/blob/main/challenges/breadth-first/readme.md)|
 |Day 16   | [Class 16](https://github.com/AmjadMesmar/data-structures-and-algorithms/blob/main/401%20code-challenges/code-challenge-class-16/readme.md)|
 |Day 17   | [Class 17](https://github.com/AmjadMesmar/data-structures-and-algorithms/blob/main/401%20code-challenges/code-challenge-class-17/readme.md)|
 |Day 18   | [Class 18](https://github.com/AmjadMesmar/data-structures-and-algorithms/blob/main/401%20code-challenges/code-challenge-class-18/readme.md)|
