@@ -39,6 +39,6 @@
     seven.right = nine;
     three.left = four;
     three.right = five;
+    let melon = new BinaryTree(one);
+    console.log(melon.breadthFirst());
 
-   let melon = new BinaryTree(one);
-   console.log(melon.breadthFirst());
