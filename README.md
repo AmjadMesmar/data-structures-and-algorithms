@@ -34,7 +34,7 @@ Each day, you'll add one new file to this folder to do your work for the day's a
 |Day 14   | [Find Maximum Value](https://github.com/AmjadMesmar/data-structures-and-algorithms/blob/main/challenges/BinaryTree/readme.md)|
 |Day 15   | [Breadth First](https://github.com/AmjadMesmar/data-structures-and-algorithms/blob/main/challenges/breadth-first/readme.md)|
 |Day 16   | [Fizz Buzz Tree](https://github.com/AmjadMesmar/data-structures-and-algorithms/blob/main/challenges/FizzBuzzTree/readme.md)|
-|Day 17   | [Class 17](https://github.com/AmjadMesmar/data-structures-and-algorithms/blob/main/401%20code-challenges/code-challenge-class-17/readme.md)|
+|Day 17   | [insertion sort](https://github.com/AmjadMesmar/data-structures-and-algorithms/blob/main/challenges/Sort/insertion-sort/readme.md)|
 |Day 18   | [Class 18](https://github.com/AmjadMesmar/data-structures-and-algorithms/blob/main/401%20code-challenges/code-challenge-class-18/readme.md)|
 |Day 19   | [Class 19](https://github.com/AmjadMesmar/data-structures-and-algorithms/blob/main/401%20code-challenges/code-challenge-class-19/readme.md)|
 |Day 20   | [Class 20](https://github.com/AmjadMesmar/data-structures-and-algorithms/blob/main/401%20code-challenges/code-challenge-class-20/readme.md)|
