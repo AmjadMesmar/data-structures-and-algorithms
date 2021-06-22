@@ -6,7 +6,7 @@ Create two functions that work together to sort arrays using merge sort algorith
 
 ## Whiteboard Process
 
-![Whiteboard](./merge-sort-whiteboard.jpg)
+![Whiteboard](./merge-sort-whiteboard-updated.jpg)
 
 ## Approach & Efficiency
 
