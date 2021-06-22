@@ -10,11 +10,11 @@ Create two functions that work together to sort arrays using merge sort algorith
 
 ## Approach & Efficiency
 
-1. ***mergeSort(arr)*** ->         Time:  O(N).
-                                   Space: O(N)
+1. ***mergeSort(arr)*** ->         Time:  O(nlogn).
+                                   Space: O(N).
 
 2. ***merge(left,rigth)*** ->      Time:  O(N).
-                                   Space: O(N)
+                                   Space: O(N).
 
 ## Solution
 
