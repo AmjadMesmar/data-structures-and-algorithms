@@ -67,7 +67,7 @@ In computer science, merge sort is an efficient, general-purpose, and comparison
 
 ## Efficency
 
-1. ***mergeSort(arr)*** ->         Time:  O(N).
+1. ***mergeSort(arr)*** ->         Time:  O(nlogn).
                                    Space: O(N).
 
 2. ***merge(left,rigth)*** ->      Time:  O(N).
