@@ -36,7 +36,7 @@ Each day, you'll add one new file to this folder to do your work for the day's a
 |Day 16   | [Fizz Buzz Tree](https://github.com/AmjadMesmar/data-structures-and-algorithms/blob/main/challenges/FizzBuzzTree/readme.md)|
 |Day 17   | [Insertion sort](https://github.com/AmjadMesmar/data-structures-and-algorithms/blob/main/challenges/Sort/insertion-sort/readme.md)|
 |Day 18   | [Merge sort](https://github.com/AmjadMesmar/data-structures-and-algorithms/blob/main/challenges/Sort/merge-sort/readme.md)|
-|Day 19   | [Class 19](https://github.com/AmjadMesmar/data-structures-and-algorithms/blob/main/401%20code-challenges/code-challenge-class-19/readme.md)|
+|Day 19   | [Quick sort](https://github.com/AmjadMesmar/data-structures-and-algorithms/blob/main/challenges/Sort/quick-sort/readme.md))|
 |Day 20   | [Class 20](https://github.com/AmjadMesmar/data-structures-and-algorithms/blob/main/401%20code-challenges/code-challenge-class-20/readme.md)|
 |Day 21   | [Class 21](https://github.com/AmjadMesmar/data-structures-and-algorithms/blob/main/401%20code-challenges/code-challenge-class-21/readme.md)|
 |Day 22   | [Class 22](https://github.com/AmjadMesmar/data-structures-and-algorithms/blob/main/401%20code-challenges/code-challenge-class-22/readme.md)|
