@@ -1,4 +1,4 @@
-# Insertion sort
+# Merge sort
 
 ## Challenge Summary
 
