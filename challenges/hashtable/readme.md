@@ -45,14 +45,19 @@ Implement a Hashtable Class with the following methods:
 1. ***add(key,value)***
 
 This method should hash the key, and add the key and value pair to the table, handling collisions as needed.
+
 2. ***get(key)***
 
 Returns values associated with that key in the table.
+
 3. ***getOne(key)***
+
 Returns the value associated with that key in the table and avoiding collisions as needed.
+
 4. ***contains(key)***
 
 Returns boolean, indicating if the key exists in the table already.
+
 5. ***hash(key)***
 
 Returns index in the collection for that key.
