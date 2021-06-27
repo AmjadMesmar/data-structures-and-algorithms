@@ -25,6 +25,7 @@ describe('HashTable',() => {
     hashTable.add('Amjad','Full-Stack');
 
     expect(hashTable.get('Ahmad')).toEqual(null);
+
   });
 
   it('Successfully handle a collision within the hashtable',() => {
