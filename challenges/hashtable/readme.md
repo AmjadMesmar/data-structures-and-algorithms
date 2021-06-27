@@ -61,3 +61,9 @@ Returns boolean, indicating if the key exists in the table already.
 5. ***hash(key)***
 
 Returns index in the collection for that key.
+
+## Whiteboard
+
+![whiteboard](./HashTable-whiteboard.jpg)
+
+[whiteboard shared link](https://miro.com/app/board/o9J_l9yX_4A=/)
