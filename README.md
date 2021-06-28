@@ -36,10 +36,10 @@ Each day, you'll add one new file to this folder to do your work for the day's a
 |Day 16   | [Fizz Buzz Tree](https://github.com/AmjadMesmar/data-structures-and-algorithms/blob/main/challenges/FizzBuzzTree/readme.md)|
 |Day 17   | [Insertion sort](https://github.com/AmjadMesmar/data-structures-and-algorithms/blob/main/challenges/Sort/insertion-sort/readme.md)|
 |Day 18   | [Merge sort](https://github.com/AmjadMesmar/data-structures-and-algorithms/blob/main/challenges/Sort/merge-sort/readme.md)|
-|Day 19   | [Quick sort](https://github.com/AmjadMesmar/data-structures-and-algorithms/blob/main/challenges/Sort/quick-sort/readme.md))|
+|Day 19   | [Quick sort](https://github.com/AmjadMesmar/data-structures-and-algorithms/blob/main/challenges/Sort/quick-sort/readme.md)|
 |Day 20   | [Hashtable](https://github.com/AmjadMesmar/data-structures-and-algorithms/blob/main/challenges/hashtable/readme.md)|
 |Day 21   | [Repeated Word](https://github.com/AmjadMesmar/data-structures-and-algorithms/blob/main/challenges/repeatedword/readme.md)|
-|Day 22   | [Class 22](https://github.com/AmjadMesmar/data-structures-and-algorithms/blob/main/401%20code-challenges/code-challenge-class-22/readme.md)|
+|Day 22   | [Tree Intersection](https://github.com/AmjadMesmar/data-structures-and-algorithms/blob/main/challenges/hashmap-tree-intersections/hashmap-tree-intersections.js)|
 |Day 23   | [Class 23](https://github.com/AmjadMesmar/data-structures-and-algorithms/blob/main/401%20code-challenges/code-challenge-class-23/readme.md)|
 |Day 24   | [Class 24](https://github.com/AmjadMesmar/data-structures-and-algorithms/blob/main/401%20code-challenges/code-challenge-class-24/readme.md)|
 |Day 25   | [Class 25](https://github.com/AmjadMesmar/data-structures-and-algorithms/blob/main/401%20code-challenges/code-challenge-class-25/readme.md)|
