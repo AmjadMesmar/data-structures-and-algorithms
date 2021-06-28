@@ -1,7 +1,7 @@
 'use strict';
 
 let Node = require('../tree/node');
-let BinarySearchTree = require('../tree/tree');
+let {BinarySearchTree} = require('../tree/tree');
 
 
 describe('node class Test', () => {
