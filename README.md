@@ -40,7 +40,7 @@ Each day, you'll add one new file to this folder to do your work for the day's a
 |Day 20   | [Hashtable](https://github.com/AmjadMesmar/data-structures-and-algorithms/blob/main/challenges/hashtable/readme.md)|
 |Day 21   | [Repeated Word](https://github.com/AmjadMesmar/data-structures-and-algorithms/blob/main/challenges/repeatedword/readme.md)|
 |Day 22   | [Tree Intersection](https://github.com/AmjadMesmar/data-structures-and-algorithms/blob/main/challenges/hashmap-tree-intersections/readme.md)|
-|Day 23   | [Class 23](https://github.com/AmjadMesmar/data-structures-and-algorithms/blob/main/401%20code-challenges/code-challenge-class-23/readme.md)|
+|Day 23   | [Left JOINs](https://github.com/AmjadMesmar/data-structures-and-algorithms/blob/main/challenges/hashmap-left-join/readme.md)|
 |Day 24   | [Class 24](https://github.com/AmjadMesmar/data-structures-and-algorithms/blob/main/401%20code-challenges/code-challenge-class-24/readme.md)|
 |Day 25   | [Class 25](https://github.com/AmjadMesmar/data-structures-and-algorithms/blob/main/401%20code-challenges/code-challenge-class-25/readme.md)|
 |Day 26   | [Class 26](https://github.com/AmjadMesmar/data-structures-and-algorithms/blob/main/401%20code-challenges/code-challenge-class-26/readme.md)|
